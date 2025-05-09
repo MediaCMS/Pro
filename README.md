@@ -9,6 +9,7 @@
 - повна підтримка типізації [TypeScript](https://www.typescriptlang.org/)
 - використання різних фреймворків [Next.js](https://nextjs.org/)/[Koa.js](https://koajs.com/)/[Fastify](https://fastify.dev/)
 - взаємодія з MongoDB за допомогою [Mongoose](https://mongoosejs.com/)
+- кешування даних за допомогою [Memcached](https://memcached.org/)
 - логування за допомогою [Winston](https://github.com/winstonjs/winston)
 - повне покриття тестами [Jest](https://jestjs.io/uk/)
 - використання контейнерів [Docker](https://www.docker.com/)
